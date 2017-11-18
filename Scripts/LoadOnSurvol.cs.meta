@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3db88bce76a4f5544939dd044d712dbb
+timeCreated: 1446656200
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - loadimagechoix: {instanceID: 0}
+  - emptyTex: {fileID: 2800000, guid: 888146bc9f115e8498249d37e13371d2, type: 3}
+  - fullTex: {fileID: 2800000, guid: 674638e7875265747b945a26d9c29652, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
